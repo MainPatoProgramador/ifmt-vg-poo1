@@ -157,7 +157,7 @@ Ele precisa do Java 21 ou mais novo. Use o atalho do menu Iniciar, que já apont
 <details>
 <summary><b>Para onde vão os dados do sistema da biblioteca?</b></summary>
 
-Para a pasta `sistema_biblioteca/dados_biblioteca`, criada quando você fecha a janela. Ela é sua: não vai para o GitHub. Apagou? O sistema só começa vazio.
+Para a pasta `poo1_dados_biblioteca`, dentro da sua pasta de usuário (por exemplo, `C:\Users\aluno\poo1_dados_biblioteca`). Ela é criada quando você fecha a janela, e o caminho aparece no Output do NetBeans. Fica fora do projeto de propósito: assim o sistema grava mesmo em computador sem permissão de administrador. Apagou? O sistema só começa vazio.
 </details>
 
 ---

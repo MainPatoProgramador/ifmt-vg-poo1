@@ -15,7 +15,7 @@ Sistema de empréstimos com janela Swing, regras, testes e dados em CSV.
 1. NetBeans: **File > Open Project** nesta pasta.
 2. Complete os `TODO` 1 a 10 em `regras/Biblioteca.java`. Rode `testes/TesteBiblioteca.java` (Shift+F6) até ver `18 passaram, 0 falharam`.
 3. Complete os `TODO` 11 a 13 em `tela/JanelaBiblioteca.java`.
-4. Rode `tela/Principal.java`. Os dados ficam na pasta `dados_biblioteca` (criada ao fechar a janela).
+4. Rode `tela/Principal.java`. Os dados ficam na pasta `poo1_dados_biblioteca`, dentro da sua pasta de usuário (criada ao fechar a janela; o caminho aparece no Output).
 
 ## Plano B, pelo terminal (dentro desta pasta)
 
