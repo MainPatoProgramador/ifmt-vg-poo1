@@ -5,3 +5,14 @@ bin/
 .settings/
 /nbproject/private/
 **/nbproject/private/
+
+# Solucoes do professor: ficam so na maquina, nunca no GitHub
+**/SOLUCAO_PROFESSOR/
+
+# Dados gerados ao rodar os exemplos e o sistema
+**/dados_biblioteca/
+apostila/placar.csv
+apostila/compras.txt
+
+# Configuracao local de editor
+.vscode/

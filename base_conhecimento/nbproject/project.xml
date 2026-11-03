@@ -3,12 +3,12 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>ifmt-vg-poo1</name>
+            <name>POO1_BaseConhecimento</name>
             <source-roots>
-                <root id="src.dir"/>
-                <root id="02_classes_e_objetos.dir"/>
-                <root id="03_relacoes.dir"/>
-                <root id="04_previa_heranca.dir"/>
+                <root id="src.dir" name="01 Java básico"/>
+                <root id="src.classes.dir" name="02 Classes e objetos"/>
+                <root id="src.relacoes.dir" name="03 Relações"/>
+                <root id="src.heranca.dir" name="04 Prévia de herança"/>
             </source-roots>
             <test-roots/>
         </data>

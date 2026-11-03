@@ -2,7 +2,9 @@
 
 Exemplos comentados para estudo, do Java básico à prévia de herança. Cada arquivo de uma pasta numerada roda sozinho, com o JDK 21. Não instala biblioteca.
 
-No NetBeans, use File > Open Project e escolha a pasta deste repositório, a que contém `nbproject`. O projeto abre com o nome `ifmt-vg-poo1`. Abra o exemplo e use Run > Run File (Shift+F6). Há vários `main`, então o botão de executar o projeto inteiro não escolhe o arquivo. No terminal, valem os comandos abaixo.
+No NetBeans: **File > Open Project** nesta pasta. O projeto abre como **POO1_BaseConhecimento**, com quatro raízes na janela Projetos: 01 Java básico, 02 Classes e objetos, 03 Relações e 04 Prévia de herança. Abra o exemplo e use **Run File** (Shift+F6). Há vários `main`; o F6 executa `Ex00OlaJava`.
+
+No terminal, os comandos abaixo continuam valendo, um arquivo por vez.
 
 Herança e polimorfismo, além desta prévia, ficam para POO II.
 
